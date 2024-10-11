@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil GitHub! Aqui você encontrará projetos e contribuiçõe
 - 👯 Estou procurando colaborar em projetos open-source que envolvam Python.
 - 🤔 Estou procurando ajuda com melhores práticas de desenvolvimento e testes automatizados.
 - 💬 Pergunte-me sobre Python, automação e análise de dados.
-- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/marciomn01/) | [Email](mailto:marciomn01@example.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/marciomelchiadesnascimento/) | [Email](marciomelchiades.20221@poli.ufrj.br)
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato curioso: Sou apaixonado por resolver quebra-cabeças e desafios de lógica.
 
