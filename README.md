@@ -1,16 +1,17 @@
 ## Hi there 👋
+```markdown
+# Olá! Eu sou o Marcio 👋
 
-<!--
-**marciomn01/marciomn01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil GitHub! Aqui você encontrará projetos e contribuições que refletem minha jornada no mundo da programação.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando em projetos de Python, focando em automação e análise de dados.
+- 🌱 Estou aprendendo mais sobre desenvolvimento web com Django e Flask.
+- 👯 Estou procurando colaborar em projetos open-source que envolvam Python.
+- 🤔 Estou procurando ajuda com melhores práticas de desenvolvimento e testes automatizados.
+- 💬 Pergunte-me sobre Python, automação e análise de dados.
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/marciomn01/) | [Email](mailto:marciomn01@example.com)
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato curioso: Sou apaixonado por resolver quebra-cabeças e desafios de lógica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vamos nos conectar e colaborar em projetos incríveis!
+```
