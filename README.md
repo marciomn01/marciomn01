@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Márcio! A passionate Electronic and Computer Engineering student from Brazil.
 
-  - 🌱 I’m currently studying Electronic and Computer Engineering at Federal University of Rio de Janeiro (UFRJ). <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 I’m currently studying Electronic and Computer Engineering at the Federal University of Rio de Janeiro (UFRJ), and I’m also taking the CS50 course from Harvard University on edX. <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
