@@ -29,8 +29,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/marciomn01)
 
 <!-- GithubStats -->
-![marciomn01 GitHub stats](https://github-readme-stats.vercel.app/api?username=marciomn01&show_icons=true&theme=)
-[![marciomn01 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciomn01)](https://github.com/marciomn01/github-readme-stats)
+![marciomn01 GitHub stats](https://github-readme-stats.vercel.app/api?username=marciomn01&show_icons=true&theme=gotham)
+[![marciomn01 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciomn01&show_icons=true&theme=gotham)](https://github.com/marciomn01/github-readme-stats)
 
 <!-- Portfolio -->
 ## Portfolio:
