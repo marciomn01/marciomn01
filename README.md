@@ -36,9 +36,10 @@
 ## Portfolio:
 - [Hackthon AMBEV](https://github.com/marciomn01/Hackthon_2024.H2_AMBEV)
 - [Python Training for_code [  ]](https://github.com/marciomn01/for_code_Python_Training_24.2)
+- [Client Registry System](https://github.com/marciomn01/Client-Registry-System)
 <!--- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
 - [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)-->
-- [Client Registry System](https://github.com/marciomn01/Client-Registry-System)
+
 
 <!-- GIF -->
 <p align="left">
